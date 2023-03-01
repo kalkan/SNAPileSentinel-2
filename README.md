@@ -69,15 +69,11 @@ Bu aşamada veriyi indirdikten sonra Copernicus portali ile işimiz kalmadı. Ş
 
 ![image](https://user-images.githubusercontent.com/3392893/222121248-3381a4ad-f66b-4a60-ad12-49520d933d23.png)
 
-15. Sırada görüntü kesme var. Raster > Subset alanından 
+15. Sırada görüntü kesme var. Görüntüye sağ tıklayarak "Spatial Subset fron View" seçeneği ile kesim işlemini başlatıyoruz.
 
-![image](https://user-images.githubusercontent.com/3392893/222122520-60da47a3-b07c-4e5a-8cc5-00963c140f8c.png)
+![image](https://user-images.githubusercontent.com/3392893/222126050-d515dcc6-e64e-43f8-8232-3444c83d7527.png)
 
-Use Preview diyerek sadece ekranda görülen alanı kesmesinis sağlıyoruz.
-
-![image](https://user-images.githubusercontent.com/3392893/222122667-13017d4a-4a15-4a20-abaf-da3421ab72b7.png)
-
-Sadece B3-B4-B8 seçerek veri boyutunu azaltmayı amaçlıyoruz. 
+Band Subset alanında sadece B3-B4-B8 seçerek veri boyutunu azaltmayı amaçlıyoruz. 
 
 ![image](https://user-images.githubusercontent.com/3392893/222122732-f6a3d273-4177-4a67-8839-50a1184c9a56.png)
 
@@ -85,7 +81,7 @@ Kesilen veri sol tarafa yeni bir veri olarak eklendi.
 
 ![image](https://user-images.githubusercontent.com/3392893/222124300-02ce00f2-2a5e-4544-840d-77f2adbba0da.png)
 
-16. Şimdi kestiğimiz veriyi sağ tıklayarak kaydedelim. İlgili veri ayrıca bu repoya da eklenmiş durumda. İsterseniz bu aşamadan direkt başlayabilirsiniz. 
+16. Şimdi kestiğimiz veriyi sağ tıklayarak kaydedelim. 
 
 Sağ tıklayarak "Save Product" diyoruz. İsim değiştirmeden .dim formatında kaydediyoruz. 
 
@@ -93,6 +89,9 @@ Sağ tıklayarak "Save Product" diyoruz. İsim değiştirmeden .dim formatında 
 
 ![image](https://user-images.githubusercontent.com/3392893/222124675-5ba31cc4-bb76-4d05-8666-a94a56edc664.png)
 
+17. Şimdi subset ile kestiğimiz veriyi Load RGB Image Window seçeneği ile tekrar gösterelim. Aşağıdaki gibi güzel bir görüntü gelmiş olmalı.
+
+![image](https://user-images.githubusercontent.com/3392893/222126477-e6f856e9-016d-45c7-a496-65bc5d9c48e8.png)
 
 
 * SNAP Nedir, SNAP İndirme
