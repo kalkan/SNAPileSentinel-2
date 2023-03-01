@@ -42,7 +42,7 @@ Bu aşamada veriyi indirdikten sonra Copernicus portali ile işimiz kalmadı. Ş
 
 | Bant   Numarası | Bant Adı            | Dalga boyu | Çözünürlük (m) |
 |-----------------|---------------------|------------|------------|
-| ﻿Band 1          | Coastal aerosol     | 0.443      | 60         |
+| Band 1          | Coastal aerosol     | 0.443      | 60         |
 | Band 2          | Blue                | 0.490      | 10         |
 | Band 3          | Green               | 0.560      | 10         |
 | Band 4          | Red                 | 0.665      | 10         |
@@ -93,6 +93,26 @@ Sağ tıklayarak "Save Product" diyoruz. İsim değiştirmeden .dim formatında 
 
 ![image](https://user-images.githubusercontent.com/3392893/222126477-e6f856e9-016d-45c7-a496-65bc5d9c48e8.png)
 
+18. Bu iki veri açıkken ekranı Window > Tile Horizontally seçeneği ile ikiye bölebiliriz. Sonrasında View > Syncronize Image Views ile iki ekranı senkronize etmeyi unutmayın ve veriyi inceleyin. 
+
+![image](https://user-images.githubusercontent.com/3392893/222133103-be31f4a4-18ac-41e4-9f50-6b651f15c259.png)
+
+![image](https://user-images.githubusercontent.com/3392893/222132937-7cccec99-4f8e-496d-84cf-e89f2da2fa37.png)
+
+19. Şimdi bu görüntüdeki bitki örtüsü alanlarını bulmak için bir indeks hesabı yapacağız. Bunun için "Band Math" özelliği kullanılıyor. SNAP içinde birçok tanımlı indeks olmasına rağmen biz bu uygulamada bunu elle yapacağız. Simple Ratio NIR/RED ile hesaplanan basit bir bitki örtüsü indeksidir. Sentinel-2 için B8/B4 ile hesaplanabilir. 
+
+* Sentinel-2 ile hesaplanabilecek indekslerin listesi için: https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/indexdb/
+* Bizim hesaplayacağımız Simple Ratio ile ilgili bilgi için. http://gsp.humboldt.edu/olm/Courses/GSP_216/lessons/Spectral-Enhancements/NDVI.html#:~:text=Simple%20Ratio%20Index%20(SR)%3A,indicate%20soil%2C%20water%20or%20ice.
+
+* Öncelikle Raster > Bant Math seçiyoruz. Bir isim yazabilirsiniz. "Edit Expression" seçeneği ile formülü yazacağız.
+
+![image](https://user-images.githubusercontent.com/3392893/222135201-30d517ce-66e3-423c-bc96-081f1d0817f0.png)
+
+* B8/B4 yazdıktan sonra OK dediğimizde hesaplama yapılıyor. 
+
+![image](https://user-images.githubusercontent.com/3392893/222135398-fe440344-aa02-43d6-b4c8-5b927b117b1e.png)
+
+Burada bitki örtüsü alanların daha yüksek değer aldığını görebilirsiniz. 
 
 * SNAP Nedir, SNAP İndirme
 * Copernicus Nedir, Sentinel-2 Nedir?
