@@ -28,6 +28,10 @@ Bu aşamada veriyi indirdikten sonra Copernicus portali ile işimiz kalmadı. Ş
 
 ![image](https://user-images.githubusercontent.com/3392893/222097296-f1b7a7e4-8bb4-409a-b63e-87c4346b7190.png)
 
+8. Programı kurduğunuzda ilk olarak Tools > Options menüsünden programın kullandığı cache boyutunu bilgisayar kapasitinize göre arttırmanızı kesinlikle öneriririm. 
+
+![image](https://user-images.githubusercontent.com/3392893/222098279-bf4277ff-15e2-4858-a8d2-60d2a821c6fe.png)
+
 
 * SNAP Nedir, SNAP İndirme
 * Copernicus Nedir, Sentinel-2 Nedir?
