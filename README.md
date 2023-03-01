@@ -73,7 +73,11 @@ Bu aşamada veriyi indirdikten sonra Copernicus portali ile işimiz kalmadı. Ş
 
 ![image](https://user-images.githubusercontent.com/3392893/222122520-60da47a3-b07c-4e5a-8cc5-00963c140f8c.png)
 
+Use Preview diyerek sadece ekranda görülen alanı kesmesinis sağlıyoruz.
+
 ![image](https://user-images.githubusercontent.com/3392893/222122667-13017d4a-4a15-4a20-abaf-da3421ab72b7.png)
+
+Sadece B3-B4-B8 seçerek veri boyutunu azaltmayı amaçlıyoruz. 
 
 ![image](https://user-images.githubusercontent.com/3392893/222122732-f6a3d273-4177-4a67-8839-50a1184c9a56.png)
 
@@ -84,6 +88,7 @@ Kesilen veri sol tarafa yeni bir veri olarak eklendi.
 16. Şimdi kestiğimiz veriyi sağ tıklayarak kaydedelim. İlgili veri ayrıca bu repoya da eklenmiş durumda. İsterseniz bu aşamadan direkt başlayabilirsiniz. 
 
 Sağ tıklayarak "Save Product" diyoruz. İsim değiştirmeden .dim formatında kaydediyoruz. 
+
 ![image](https://user-images.githubusercontent.com/3392893/222124541-62f9d007-cb5f-4232-83f0-2ce5000a5c4e.png)
 
 ![image](https://user-images.githubusercontent.com/3392893/222124675-5ba31cc4-bb76-4d05-8666-a94a56edc664.png)
