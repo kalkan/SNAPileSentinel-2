@@ -140,6 +140,18 @@ Burada bitki örtüsü alanların daha yüksek değer aldığını görebilirsin
 
 24. Son olarak Kontrollü/Eğitimli sınıflandırma yapacağız. Bunun için eğitim alanları seçmemiz gerekir. Bu amaçla 2 farklı vektör katman üreterek birinde bitki örtülü alanları diğerinde bitki örtülü olmayan alanları çizerek bir sınıflandırma gerçekleştireceğiz. 
 
+* Öncelikle "Vector > New Vector Data Container" alanından yeni vektör veri katmanı oluşturalım ve adını bitki yapalim. 
+
+![image](https://user-images.githubusercontent.com/3392893/222154567-f2dc9be4-763f-4e9f-8eef-ace5b4b68b51.png)
+
+* Kare çizme aracı ile bazı tarım alanlarından örnekler toplayalım. 5 yeterli
+
+![image](https://user-images.githubusercontent.com/3392893/222154858-f5d064c2-3675-4473-95ec-53a72611bf70.png)
+
+* İkinci vektörü bitkiolmayan olarak adlandıp bitki olmayana alanlardan örnekler toplayalım.
+
+![image](https://user-images.githubusercontent.com/3392893/222155339-f27a446c-dcf8-4f10-8897-4a31a2c60a33.png)
+
 
 
 
