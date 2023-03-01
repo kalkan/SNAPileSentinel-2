@@ -9,7 +9,7 @@ Bu repoda ESA SNAP yazılımı ile temel Sentinel-2 görüntü işleme süreci �
 
 4. Scroll Butonu ile Ceylanpınar'da aşağıdaki gibi bir alan çiziyoruz.
 
-![image](https://user-images.githubusercontent.com/3392893/222094591-685369ea-a021-4f06-9acd-b675958311e3.png)
+![image](https://user-images.githubusercontent.com/3392893/222129341-9c29ebe0-09d8-419c-b37f-e1127aab8b7e.png)
 
 5. Sol tarafdaki filtreleme bölümünde 
 * Sentinel-2
