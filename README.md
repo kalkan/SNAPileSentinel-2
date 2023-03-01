@@ -22,7 +22,9 @@ Bu repoda ESA SNAP yazılımı ile temel Sentinel-2 görüntü işleme süreci �
 
 ![image](https://user-images.githubusercontent.com/3392893/222095534-88b795bf-73f8-46f6-83ae-3f4a50395f5f.png)
  
+Bu aşamada veriyi indirdikten sonra Copernicus portali ile işimiz kalmadı. Şimdi SNAP yazılımını indireceğiz.
 
+7. SNAP yazılımını https://step.esa.int/main/download/snap-download/ adresinden indirip kuruyoruz.
 
 
 * SNAP Nedir, SNAP İndirme
