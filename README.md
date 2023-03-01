@@ -152,7 +152,19 @@ Burada bitki örtüsü alanların daha yüksek değer aldığını görebilirsin
 
 ![image](https://user-images.githubusercontent.com/3392893/222155339-f27a446c-dcf8-4f10-8897-4a31a2c60a33.png)
 
+25. Son aşamada bu vektör alanları kullanarak Raster > Classification > Supervised Classificaton > Minimum Distance Classifier menüsünden sınıflandırma işlemimizi başlatacağız. Doğruluk analizi kısmı bu tutorial'da yok ama yapılması gerektiğini unutmayalım.
 
+![image](https://user-images.githubusercontent.com/3392893/222158193-c945ce32-b1e0-4947-af28-0d434611865a.png)
+
+* Subset edip kaydettiğimiz veriyi ekleyerek, sonrasında "run" komutu ile işlemi tamamlayabiliriz. 
+
+![image](https://user-images.githubusercontent.com/3392893/222158823-fcc26953-7133-4fc9-b389-58c8cf233472.png)
+
+26. Son işlem olarak sınıflandırma sonucunu geotiff olarak export ederek QGIS'te görüntüleyelim. 
+
+![image](https://user-images.githubusercontent.com/3392893/222167409-1f60806f-4f5a-4689-8e69-8256ba1e82ce.png)
+
+![image](https://user-images.githubusercontent.com/3392893/222167820-81a40f7b-4168-4fc1-b810-739949a68823.png)
 
 
 
