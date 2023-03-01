@@ -1,5 +1,5 @@
 # SNAP Yazılımı ile Sentinel-2 Verisi İşleme
-Bu repoda ESA SNAP yazılımı ile temel Sentinel-2 görüntü işleme süreci özetlenecektir.
+Bu repoda ESA SNAP yazılımı ile temel Sentinel-2 görüntü işleme süreci özetlenecektir. Bu repo Eskişehir Teknik Üniversitesi, Yer ve Uzay Bilimleri Enstitüsü, Uzaktan Algılama ve Coğrafi Bilgi Sistemleri Doktora Programı UCS635 Uydu Görüntü İşleme dersi kapsamında ve diğer eğitimlerimde ortam kullanmak için hazırlanmıştır. Rahatlıkla kullanabilirsiniz. İyi görüntü işlemeler :)
 
 1. Copernicus portaline ücretsiz üyelik yapıyoruz. https://scihub.copernicus.eu/
 2. Open Hub adresi üzerinden görüntü indirme aracına ulaşıyoruz. https://scihub.copernicus.eu/dhus/#/home
@@ -25,6 +25,8 @@ Bu repoda ESA SNAP yazılımı ile temel Sentinel-2 görüntü işleme süreci �
 Bu aşamada veriyi indirdikten sonra Copernicus portali ile işimiz kalmadı. Şimdi SNAP yazılımını indireceğiz.
 
 7. SNAP yazılımını https://step.esa.int/main/download/snap-download/ adresinden indirip kuruyoruz.
+
+![image](https://user-images.githubusercontent.com/3392893/222097296-f1b7a7e4-8bb4-409a-b63e-87c4346b7190.png)
 
 
 * SNAP Nedir, SNAP İndirme
