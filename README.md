@@ -132,7 +132,14 @@ Burada bitki örtüsü alanların daha yüksek değer aldığını görebilirsin
 
 ![image](https://user-images.githubusercontent.com/3392893/222140715-baf34270-16e5-4b19-9310-47231dca9196.png)
 
-23. 
+23. Şimdi bu görüntü üzerinden kenar belirleme yapalım. Bunun için Raster > Filtered Band seçeneğinden Compass Edge Detector filtresini çalıştıralım ve tarım alanları belirleniyor mu inceleyelim.
+
+![image](https://user-images.githubusercontent.com/3392893/222142366-a5eff49e-5533-4cf3-93ed-7c91261d4164.png)
+
+![image](https://user-images.githubusercontent.com/3392893/222142393-42e852a4-842b-4c3a-b094-519b83cba854.png)
+
+24. Son olarak Kontrollü/Eğitimli sınıflandırma yapacağız. Bunun için eğitim alanları seçmemiz gerekir. Bu amaçla 2 farklı vektör katman üreterek birinde bitki örtülü alanları diğerinde bitki örtülü olmayan alanları çizerek bir sınıflandırma gerçekleştireceğiz. 
+
 
 
 
