@@ -40,7 +40,7 @@ Bu aşamada veriyi indirdikten sonra Copernicus portali ile işimiz kalmadı. Ş
 
 11. Sentinel-2 Bantları
 
-| Bant   Numarası | Bant Adı            | Dalga boyu | Çözünürlük |
+| Bant   Numarası | Bant Adı            | Dalga boyu | Çözünürlük (m) |
 |-----------------|---------------------|------------|------------|
 | ﻿Band 1          | Coastal aerosol     | 0.443      | 60         |
 | Band 2          | Blue                | 0.490      | 10         |
