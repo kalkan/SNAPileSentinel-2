@@ -126,7 +126,7 @@ Burada bitki örtüsü alanların daha yüksek değer aldığını görebilirsin
 
 ![image](https://user-images.githubusercontent.com/3392893/222137046-ad8785bb-90d5-4ffa-bd60-60198ffbf13f.png)
 
-22. Sınıflandırma sonucu olan class_indices bandını gösteriyoruz.
+22. Sınıflandırma sonucu olan class_indices bandını çift tıklayarak gösteriyoruz.
 
 ![image](https://user-images.githubusercontent.com/3392893/222140666-927bf30e-23bf-42ee-a0b0-fd5d63e7e545.png)
 
