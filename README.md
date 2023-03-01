@@ -65,6 +65,29 @@ Bu aşamada veriyi indirdikten sonra Copernicus portali ile işimiz kalmadı. Ş
 
 ![image](https://user-images.githubusercontent.com/3392893/222120908-0dff7340-712b-4d32-a4df-48255affe881.png)
 
+14. Bir sonraki aşamada görüntüyü aşağıdaki görseldeki şekilde zoomlayalım pivot tarlalar, alt ve üst tarafta tarım alanları olacak şekilde.
+
+![image](https://user-images.githubusercontent.com/3392893/222121248-3381a4ad-f66b-4a60-ad12-49520d933d23.png)
+
+15. Sırada görüntü kesme var. Raster > Subset alanından 
+
+![image](https://user-images.githubusercontent.com/3392893/222122520-60da47a3-b07c-4e5a-8cc5-00963c140f8c.png)
+
+![image](https://user-images.githubusercontent.com/3392893/222122667-13017d4a-4a15-4a20-abaf-da3421ab72b7.png)
+
+![image](https://user-images.githubusercontent.com/3392893/222122732-f6a3d273-4177-4a67-8839-50a1184c9a56.png)
+
+Kesilen veri sol tarafa yeni bir veri olarak eklendi.
+
+![image](https://user-images.githubusercontent.com/3392893/222124300-02ce00f2-2a5e-4544-840d-77f2adbba0da.png)
+
+16. Şimdi kestiğimiz veriyi sağ tıklayarak kaydedelim. İlgili veri ayrıca bu repoya da eklenmiş durumda. İsterseniz bu aşamadan direkt başlayabilirsiniz. 
+
+Sağ tıklayarak "Save Product" diyoruz. İsim değiştirmeden .dim formatında kaydediyoruz. 
+![image](https://user-images.githubusercontent.com/3392893/222124541-62f9d007-cb5f-4232-83f0-2ce5000a5c4e.png)
+
+![image](https://user-images.githubusercontent.com/3392893/222124675-5ba31cc4-bb76-4d05-8666-a94a56edc664.png)
+
 
 
 * SNAP Nedir, SNAP İndirme
