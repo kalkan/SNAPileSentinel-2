@@ -55,6 +55,11 @@ Bu aşamada veriyi indirdikten sonra Copernicus portali ile işimiz kalmadı. Ş
 | Band 11         | SWIR                | 1.610      | 20         |
 | Band 12         | SWIR                | 2.190      | 20         |
 
+12. Görüntü dosyamıza sağ tıkladıktan sonra "Open RGB Image Window" seçeneği ile ilgili bantları Red-Green-Blue sıralaması ile görselleştiriyoruz. Burada Natural Colour ifadesi bunu ifade etmiş oluyor. 
+
+![image](https://user-images.githubusercontent.com/3392893/222120435-21bd6c98-7257-4916-a583-47d7f46ee088.png)
+
+![image](https://user-images.githubusercontent.com/3392893/222120585-2e9bc8b6-14a8-4351-94fa-626fa92d267b.png)
 
 * SNAP Nedir, SNAP İndirme
 * Copernicus Nedir, Sentinel-2 Nedir?
