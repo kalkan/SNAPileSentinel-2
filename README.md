@@ -114,13 +114,26 @@ Sağ tıklayarak "Save Product" diyoruz. İsim değiştirmeden .dim formatında 
 
 Burada bitki örtüsü alanların daha yüksek değer aldığını görebilirsiniz. 
 
-* SNAP Nedir, SNAP İndirme
-* Copernicus Nedir, Sentinel-2 Nedir?
-* Görüntü indirme
-* Sentinel-2 Bantları
-* Sentinel-2 İndeksleri
-* Görüntü Açma, RGB, Subset
-* NDVI
-* Band Math
-* Vector Manipulation
-* Supervised and Unsupervised Classifiation
+20. Bu hesabın arkasında yatan piksel değerlerini incelemek için "Optical > Spectrum View" seçeneği ile piksel değerlerini inceleyelim. Ekin olan pivotların daha yüksek NIR değerine sahip olduğunu görebilirsiniz. 
+
+21. Eğitimsiz/Kontrolsüz sınıflandırma için bu örnek kapsamında, K-means Clustering ile bu görüntüyü 2 ayrı sınıfa ayıracağız. 
+
+* Raster > Classification > Unsupervised Classification > K-Means Cluster Analysis ile başlıyoruz. 
+
+![image](https://user-images.githubusercontent.com/3392893/222136523-e68782a9-e2f1-4145-8d90-adf001e0d692.png)
+
+* Processing Parameters alanında 2 cluster seçerek ve sadece hesapladığımız indeksi işleme alarak işlemi yaptıralım. 
+
+![image](https://user-images.githubusercontent.com/3392893/222137046-ad8785bb-90d5-4ffa-bd60-60198ffbf13f.png)
+
+22. Sınıflandırma sonucu olan class_indices bandını gösteriyoruz.
+
+![image](https://user-images.githubusercontent.com/3392893/222140666-927bf30e-23bf-42ee-a0b0-fd5d63e7e545.png)
+
+![image](https://user-images.githubusercontent.com/3392893/222140715-baf34270-16e5-4b19-9310-47231dca9196.png)
+
+23. 
+
+
+
+
