@@ -61,6 +61,12 @@ Bu aşamada veriyi indirdikten sonra Copernicus portali ile işimiz kalmadı. Ş
 
 ![image](https://user-images.githubusercontent.com/3392893/222120585-2e9bc8b6-14a8-4351-94fa-626fa92d267b.png)
 
+13. Görüntümüz açıldı. Sol alttaki Navigation penceresinden veya ana pencereden scroll ile zoom in-out yaparak görüntüyü inceleyebiliriz.
+
+![image](https://user-images.githubusercontent.com/3392893/222120908-0dff7340-712b-4d32-a4df-48255affe881.png)
+
+
+
 * SNAP Nedir, SNAP İndirme
 * Copernicus Nedir, Sentinel-2 Nedir?
 * Görüntü indirme
